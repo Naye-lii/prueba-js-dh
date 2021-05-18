@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "titulo": "Tarea 1",
+        "estatus": "terminada"
+    },
+    {
+        "titulo": "Tarea 2",
+        "estatus": "pendiete"
+    },
+    {
+        "titulo": "Tarea 3",
+        "estatus": "pendiente"
+    },
+    {
+        "titulo": "Tarea 4",
+        "estatus": "terminada"
+    },
+    {
+        "titulo": "Tarea 5",
+        "estatus": "pendiente"
+    },
+]
